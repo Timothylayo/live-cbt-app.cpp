@@ -1,0 +1,4 @@
+. A 2UF capacitor charged originally to a potential difference of 60v is discharged across a 22mW resistor as shown in the figure.Calculate the time constant of the circuit and the potential difference across the capacitor after this time constant time?
+12
+
+
